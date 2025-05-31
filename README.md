@@ -68,9 +68,35 @@ Hate Segment Length and Proportion Distributions
 
 ---
 
-#### Figure 1: Dataset statistics and temporal analysis of hate speech segments in DeHATE
+### Figure 2. Audio Zero Crossing Rate and Emotion
 
-> The left histograms show the distributions of hate segment lengths (sec) and proportions (%) in videos for each platform and hate type (explicit, implicit), with x- and y-axes in log scale and mean values marked by vertical dashed lines. The middle histograms illustrate density-normalized starting times of hate segments by platform and video length, comparing explicit and implicit types. The right donut charts summarize the modality composition for explicit and implicit hate, and the bar chart shows the proportion of hateful videos by targeted group.
+#### (a) Zero Crossing Rate for Explicit Hate
+
+![Zero Crossing Rate for Explicit Hate](Images/cross_rate_explicit.jpg)
+
+---
+
+#### (b) Zero Crossing Rate for Implicit Hate
+
+![Zero Crossing Rate for Implicit Hate](Images/cross_rate_implicit.jpg)
+
+---
+
+#### (c) Zero Crossing Rate for Non-Hate
+
+![Zero Crossing Rate for Non-Hate](Images/cross_rate_non-hate.jpg)
+
+---
+
+#### (d) Audio Emotion Heatmap
+
+![Audio Emotion Heatmap](Images/emotion_audio_heatmap.jpg)
+
+> These figures visualize the Zero Crossing Rate (ZCR) for explicit hate, implicit hate, and non-hate content, as well as the heatmap of audio-based emotion classification across categories.
+
+---
+
+
 
 #### Figure 2: Audio Zero Crossing Rate and Emotion
 
