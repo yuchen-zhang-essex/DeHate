@@ -1,4 +1,4 @@
-# $DeHaTe$: A Holistic Hateful Video Dataset
+# $DeHate$: A Holistic Hateful Video Dataset
 
 
 ## ⚠️ Ethics Statement
