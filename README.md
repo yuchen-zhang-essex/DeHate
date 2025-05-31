@@ -68,7 +68,7 @@ Hate Segment Length and Proportion Distributions
 
 ---
 
-### Figure 2. Audio Zero Crossing Rate and Emotion
+### Figure 5. Audio Zero Crossing Rate and Emotion
 
 #### (a) Zero Crossing Rate (ZCR) for Explicit, Implicit, and Non-Hate Content
 
@@ -88,19 +88,26 @@ Hate Segment Length and Proportion Distributions
 
 ---
 
-#### Figure 3: Keywords and sentiment analysis for textual content
+### Figure 6. Sentiment Scores and Top Keywords in Textual Content
 
-> This figure presents sentiment scores and the top 10 keywords for explicit hate, implicit hate, and non-hate content across platforms.
+![Sentiment Scores and Top Keywords](Images/sentiment_box_and_table.jpg)
 
-#### Figure 4: Object detection and word cloud for explicit and implicit hate content
+> The sentiment scores of textual content across explicit hate, implicit hate, and non-hate categories for BitChute and TikTok (left). The top 10 keywords for each category: explicit, implicit, non-Hate (right).
 
-> This figure displays the results of object detection (using YOLOv11) and word clouds for explicit and implicit hate content in the dataset.
+---
+
+### Figure 7. Object Detection and Word Cloud for Explicit and Implicit Hate Content
+
+![Object Detection and Word Cloud](Images/HateObjectDetection_clear.jpg)
+
+> The detected object categories (word clouds) and example video frames with object detection results for explicit hate (left) and implicit hate (right) content.
+
 
 ---
 
 ## File List
 
-- `Data_Final_clean_with_duration.csv` — Main data file with video-level and segment-level annotations.
+- `DeHate.xlsx` — Main data file with video-level and segment-level annotations.
 
 ---
 
