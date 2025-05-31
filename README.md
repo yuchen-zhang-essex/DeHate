@@ -156,6 +156,14 @@ DeHATE includes:
 
 ---
 
+## Accessing Videos
+
+---
+
+## Accessing Videos
+
+For the public version of the DeHATE dataset, we provide only the video IDs, which can be used to identify and retrieve the videos from TikTok and BitChute. You may use a script such as `video_download.py` to download the videos using these IDs, subject to platform availability and access permissions. Please note that some high-risk or policy-violating videos may have been removed from the platforms since collection. Due to copyright and platform restrictions, we are unable to release the raw video files directly. If you encounter video IDs that are no longer downloadable or require assistance with access, please contact [yuchen.zhang@essex.ac.uk](mailto:yuchen.zhang@essex.ac.uk) for support.
+
 
 
 
