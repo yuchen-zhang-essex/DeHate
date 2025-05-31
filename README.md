@@ -31,7 +31,7 @@ DeHATE includes:
 
 ### Label Distribution
 
-**Table 2: Label distribution of DeHATE.**
+**Table 1: Label distribution of DeHATE.**
 
 | Platform  | Hate (Explicit) | Hate (Implicit) | Non-Hate |
 |-----------|:--------------:|:---------------:|:--------:|
@@ -43,7 +43,7 @@ DeHATE includes:
 
 ### Modality Distribution
 
-**Table 3: Distribution of contributing modalities (Top 3 in bold).**
+**Table 2: Distribution of contributing modalities (Top 3 in bold).**
 
 | Modality                   | BitChute | TikTok |
 |----------------------------|:--------:|:------:|
@@ -59,7 +59,7 @@ DeHATE includes:
 
 ### Target Group Distribution
 
-**Table 4: Distribution of hateful videos by single and multiple target groups (Top 3 single targets in bold).**
+**Table 3: Distribution of hateful videos by single and multiple target groups (Top 3 single targets in bold).**
 
 | Target Group(s)                | BitChute | TikTok |
 |--------------------------------|:--------:|:------:|
