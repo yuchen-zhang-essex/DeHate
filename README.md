@@ -203,7 +203,7 @@ Below we report the performance of several unimodal and multimodal baselines eva
 ## File List
 
 - `DeHate.xlsx` — Main data file with video-level and segment-level annotations.
-
+- `get_bitchute_video.py` — A Python script to download BitChute videos with `video_ids`.
 ---
 
 ## Accessing Videos
@@ -213,7 +213,13 @@ Due to copyright and platform restrictions, we’re unable to share the original
 To download videos from BitChute, you can use the `get_bitchute_video.py` script. For TikTok, please use the official TikTok API, available at [https://developers.tiktok.com/](https://developers.tiktok.com/).
 Please note that some videos may be removed by the platforms for violating content policies. If you have trouble accessing certain videos or need help, feel free to contact [yuchen.zhang@essex.ac.uk](mailto:yuchen.zhang@essex.ac.uk) for support.
 
+Run the following script:
 
+```python get_bitchute_video.py --video_id abc123 --output_dir ./downloads/ ```
+
+This will download the video from https://www.bitchute.com/video/abc123/ and save it into the downloads/ folder with a filename like:
+
+```{Publisher}_{Publish_Date}_{Video_Title}.mp4 ```
 
 
 
