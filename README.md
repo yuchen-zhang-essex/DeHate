@@ -6,7 +6,9 @@
 **This repository contains sensitive content that may be disturbing to some readers.**
 
 
-The videos and data provided for annotation in this project have been sourced from publicly accessible social media platforms in compliance with all applicable laws and regulations. The content within these videos does not reflect the opinions, beliefs, or viewpoints of the research group or its members.
+The videos and data provided for annotation in this project have been sourced from publicly accessible social media platforms in compliance with all applicable laws and regulations. 
+
+The content within these videos does not reflect the opinions, beliefs, or viewpoints of the research group or its members.
 
 This dataset is intended solely for research purposes and must be treated with strict confidentiality. Annotators are prohibited from downloading, saving, or disseminating any part of the data in any form. Any breach of this policy will be considered a violation of project terms and may result in legal consequences. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
 
