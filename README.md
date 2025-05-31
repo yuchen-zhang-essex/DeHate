@@ -33,10 +33,52 @@ DeHATE includes:
 
 ---
 
+### Modality Distribution
+
+**Table 3: Distribution of contributing modalities (Top 3 in bold).**
+
+| Modality                   | BitChute | TikTok |
+|----------------------------|:--------:|:------:|
+| **Text only**              | 951      | 23     |
+| Visual only                | 9        | 15     |
+| Audio only                 | 207      | 66     |
+| Visual + Audio             | 257      | 92     |
+| Visual + Text              | 26       | 2      |
+| Text + Audio               | 82       | 3      |
+| **Visual + Audio + Text**  | 358      | 29     |
+
+*This table presents the distribution of contributing modalities for hateful content across BitChute and TikTok. “Text only”, “Audio only”, and “Visual + Audio + Text” are the top three modality combinations.*
+
+---
+
+### Target Group Distribution
+
+**Table 4: Distribution of hateful videos by single and multiple target groups (Top 3 single targets in bold).**
+
+| Target Group(s)                | BitChute | TikTok |
+|--------------------------------|:--------:|:------:|
+| **Single Target Group**        |          |        |
+| **Race**                       | 573      | 71     |
+| **Gender**                     | 289      | 16     |
+| Religion                       | 71       | 28     |
+| Sexual Orientation             | 203      | 19     |
+| Disability                     | 23       | 31     |
+| Immigration                    | 318      | 33     |
+| **Top 5 Multiple Target Groups**|         |        |
+| Race + Immigration             | 134      | 14     |
+| Race + Religion                | 61       | 6      |
+| Race + Gender                  | 59       | 2      |
+| Gender + Sexual Orientation    | 46       | 4      |
+| Race + Sexual Orientation      | 38       | –      |
+| Race + Religion + Immigration  | –        | 2      |
+
+*This table summarizes the distribution of hateful videos by single and multiple target groups on BitChute and TikTok. Race, Gender, and Immigration are the most frequently targeted single groups.*
+
+---
+
 ## Figures
 
-### Figure 1. 
-Hate Segment Length and Proportion Distributions
+### Figure 1. Hate Segment Length and Proportion Distributions
 
 ![Hate Segment Length and Proportion Distributions](Images/HateSegment_clear.png)
 
