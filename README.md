@@ -88,19 +88,19 @@ Hate Segment Length and Proportion Distributions
 
 ---
 
-### Figure 7. Object Detection and Word Cloud for Explicit and Implicit Hate Content
-
-![Object Detection and Word Cloud](Images/HateObjectDetection_clear.jpg)
-
-> The detected object categories (word clouds) and example video frames with object detection results for explicit hate (left) and implicit hate (right) content.
-
----
-
 ### Figure 6. Sentiment Scores and Top Keywords in Textual Content
 
 ![Sentiment Scores and Top Keywords](Images/sentiment_box_and_table.jpg)
 
 > The sentiment scores of textual content across explicit hate, implicit hate, and non-hate categories for BitChute and TikTok (left). The top 10 keywords for each category: explicit, implicit, non-Hate (right).
+
+---
+
+### Figure 7. Object Detection and Word Cloud for Explicit and Implicit Hate Content
+
+![Object Detection and Word Cloud](Images/HateObjectDetection_clear.jpg)
+
+> The detected object categories (word clouds) and example video frames with object detection results for explicit hate (left) and implicit hate (right) content.
 
 ---
 
