@@ -102,7 +102,6 @@ Hate Segment Length and Proportion Distributions
 
 > The detected object categories (word clouds) and example video frames with object detection results for explicit hate (left) and implicit hate (right) content.
 
-
 ---
 
 ## File List
