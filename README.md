@@ -47,8 +47,6 @@ DeHATE includes:
 | Text + Audio               | 82       | 3      |
 | **Visual + Audio + Text**  | 358      | 29     |
 
-*This table presents the distribution of contributing modalities for hateful content across BitChute and TikTok. “Text only”, “Audio only”, and “Visual + Audio + Text” are the top three modality combinations.*
-
 ---
 
 ### Target Group Distribution
@@ -71,8 +69,6 @@ DeHATE includes:
 | Gender + Sexual Orientation    | 46       | 4      |
 | Race + Sexual Orientation      | 38       | –      |
 | Race + Religion + Immigration  | –        | 2      |
-
-*This table summarizes the distribution of hateful videos by single and multiple target groups on BitChute and TikTok. Race, Gender, and Immigration are the most frequently targeted single groups.*
 
 ---
 
