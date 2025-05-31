@@ -14,7 +14,7 @@ This dataset is intended solely for research purposes and must be treated with s
 
 ---
 
-**DeHATE** is a large-scale multimodal dataset for the detection and localization of explicit and implicit hate in short-form videos. The dataset comprises over 6,000 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
+**DeHATE** is a large-scale multimodal dataset for the detection of explicit and implicit hate in short-form videos. The dataset comprises over 6,689 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
 This repository contains:
 - The cleaned annotation data in `.xlsx` format.
