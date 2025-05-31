@@ -35,6 +35,7 @@ DeHATE includes:
 
 ### Figures
 
+
 #### Figure 1: Dataset statistics and temporal analysis of hate speech segments in DeHATE
 
 > The left histograms show the distributions of hate segment lengths (sec) and proportions (%) in videos for each platform and hate type (explicit, implicit), with x- and y-axes in log scale and mean values marked by vertical dashed lines. The middle histograms illustrate density-normalized starting times of hate segments by platform and video length, comparing explicit and implicit types. The right donut charts summarize the modality composition for explicit and implicit hate, and the bar chart shows the proportion of hateful videos by targeted group.
