@@ -38,7 +38,7 @@ DeHATE includes:
 ### Figure 1. 
 Hate Segment Length and Proportion Distributions
 
-![Hate Segment Length and Proportion Distributions](images/HateSegment_clear.png)
+![Hate Segment Length and Proportion Distributions](Images/HateSegment_clear.png)
 
 > This figure presents the distributions of hate segment lengths (in seconds) and proportions (%) in videos for each platform and hate type (explicit, implicit), with x- and y-axes in log scale and mean values marked by vertical dashed lines.
 
@@ -46,7 +46,7 @@ Hate Segment Length and Proportion Distributions
 
 ### Figure 2. Normalized Starting Time Distribution of Hate Segments
 
-![Normalized Starting Time Distribution of Hate Segments](images/HateStartingTime_clear.png)
+![Normalized Starting Time Distribution of Hate Segments](Images/HateStartingTime_clear.png)
 
 > This figure illustrates the density-normalized starting times of hate segments by platform and video length, comparing explicit and implicit types.
 
@@ -54,7 +54,7 @@ Hate Segment Length and Proportion Distributions
 
 ### Figure 3. Modality Composition of Explicit and Implicit Hate
 
-![Modality Composition of Explicit and Implicit Hate](images/HateModality_clear.png)
+![Modality Composition of Explicit and Implicit Hate](Images/HateModality_clear.png)
 
 > This figure shows the modality composition for explicit and implicit hate in the dataset.
 
@@ -62,7 +62,7 @@ Hate Segment Length and Proportion Distributions
 
 ### Figure 4. Proportion of Hateful Videos by Target Group
 
-![Proportion of Hateful Videos by Target Group](images/HateTargetGroup_clear.png)
+![Proportion of Hateful Videos by Target Group](Images/HateTargetGroup_clear.png)
 
 > This figure shows the proportion of hateful videos by targeted group, separated into explicit and implicit hate.
 
