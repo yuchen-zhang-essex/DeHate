@@ -1,5 +1,13 @@
 # DeHATE: A Holistic Hateful Video Dataset
 
+## Ethics Statement
+
+The videos and data provided for annotation in this project have been sourced from publicly accessible social media platforms in compliance with all applicable laws and regulations. The content within these videos does not reflect the opinions, beliefs, or viewpoints of the research group or its members.
+
+This dataset is intended solely for research purposes and must be treated with strict confidentiality. Annotators are prohibited from downloading, saving, or disseminating any part of the data in any form. Any breach of this policy will be considered a violation of project terms and may result in legal consequences. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
+
+---
+
 **DeHATE** is a large-scale multimodal dataset for the detection and localization of explicit and implicit hate in short-form videos. The dataset comprises over 6,000 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
 This repository contains:
@@ -148,24 +156,7 @@ DeHATE includes:
 
 ---
 
-## Citation
 
-If you use this dataset, please cite:
-
-```bibtex
-@inproceedings{DeHATE2025,
-  author    = {Yuchen Zhang and Tailin Chen and Jiangbei Yue and Yueming Sun and Rahul Singh and Jianbo Jiao and Zeyu Fu},
-  title     = {DeHATE: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection and Localization},
-  year      = {2025}
-}
-
----
-
-## Ethics Statement
-
-The videos and data provided for annotation in this project have been sourced from publicly accessible social media platforms in compliance with all applicable laws and regulations. The content within these videos does not reflect the opinions, beliefs, or viewpoints of the research group or its members.
-
-This dataset is intended solely for research purposes and must be treated with strict confidentiality. Annotators are prohibited from downloading, saving, or disseminating any part of the data in any form. Any breach of this policy will be considered a violation of project terms and may result in legal consequences. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
 
 
 
