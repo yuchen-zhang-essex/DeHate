@@ -70,29 +70,23 @@ Hate Segment Length and Proportion Distributions
 
 ### Figure 2. Audio Zero Crossing Rate and Emotion
 
-#### (a) Zero Crossing Rate for Explicit Hate
+#### (a) Zero Crossing Rate (ZCR) for Explicit, Implicit, and Non-Hate Content
 
 ![Zero Crossing Rate for Explicit Hate](Images/cross_rate_explicit.jpg)
-
----
-
-#### (b) Zero Crossing Rate for Implicit Hate
-
 ![Zero Crossing Rate for Implicit Hate](Images/cross_rate_implicit.jpg)
-
----
-
-#### (c) Zero Crossing Rate for Non-Hate
-
 ![Zero Crossing Rate for Non-Hate](Images/cross_rate_non-hate.jpg)
 
+*Caption:*  
+These plots show the Zero Crossing Rate (ZCR) of the audio signal over time for explicit hate, implicit hate, and non-hate content, respectively.
+
 ---
 
-#### (d) Audio Emotion Heatmap
+#### (b) Audio Emotion Heatmap
 
 ![Audio Emotion Heatmap](Images/emotion_audio_heatmap.jpg)
 
-> These figures visualize the Zero Crossing Rate (ZCR) for explicit hate, implicit hate, and non-hate content, as well as the heatmap of audio-based emotion classification across categories.
+*Caption:*  
+This heatmap displays the distribution of detected emotions in the audio across different content types, with columns representing emotions and rows representing explicit, implicit, and non-hate categories.
 
 ---
 
