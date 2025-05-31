@@ -1,6 +1,10 @@
 # DeHATE: A Holistic Hateful Video Dataset
 
-## Ethics Statement
+
+## ⚠️ Ethics Statement
+
+**This repository contains sensitive content that may be disturbing to some readers.**
+
 
 The videos and data provided for annotation in this project have been sourced from publicly accessible social media platforms in compliance with all applicable laws and regulations. The content within these videos does not reflect the opinions, beliefs, or viewpoints of the research group or its members.
 
@@ -11,8 +15,8 @@ This dataset is intended solely for research purposes and must be treated with s
 **DeHATE** is a large-scale multimodal dataset for the detection and localization of explicit and implicit hate in short-form videos. The dataset comprises over 6,000 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
 This repository contains:
-- The cleaned annotation data in `.csv` format
-- Documentation and statistics on label distributions, segment, modality, and group breakdowns
+- The cleaned annotation data in `.xlsx` format.
+- Documentation and statistics on label distributions, hate segment, contributing modality, and target groups.
 
 ---
 
