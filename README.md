@@ -40,7 +40,7 @@ Hate Segment Length and Proportion Distributions
 
 ![Hate Segment Length and Proportion Distributions](Images/HateSegment_clear.png)
 
-> This figure presents the distributions of hate segment lengths (in seconds) and proportions (%) in videos for each platform and hate type (explicit, implicit), with x- and y-axes in log scale and mean values marked by vertical dashed lines.
+> The distributions of hate segment lengths (in seconds) and proportions (%) in videos for each platform and hate type (explicit, implicit), with x- and y-axes in log scale and mean values marked by vertical dashed lines.
 
 ---
 
@@ -48,7 +48,7 @@ Hate Segment Length and Proportion Distributions
 
 ![Normalized Starting Time Distribution of Hate Segments](Images/HateStartingTime_clear.png)
 
-> This figure illustrates the density-normalized starting times of hate segments by platform and video length, comparing explicit and implicit types.
+> The density-normalized starting times of hate segments by platform and video length, comparing explicit and implicit types.
 
 ---
 
@@ -56,7 +56,7 @@ Hate Segment Length and Proportion Distributions
 
 ![Modality Composition of Explicit and Implicit Hate](Images/HateModality_clear.png)
 
-> This figure shows the modality composition for explicit and implicit hate in the dataset.
+> The modality composition for explicit and implicit hate in the dataset.
 
 ---
 
@@ -64,7 +64,7 @@ Hate Segment Length and Proportion Distributions
 
 ![Proportion of Hateful Videos by Target Group](Images/HateTargetGroup_clear.png)
 
-> This figure shows the proportion of hateful videos by targeted group, separated into explicit and implicit hate.
+> The proportion of hateful videos by targeted group, separated into explicit and implicit hate.
 
 ---
 
@@ -76,8 +76,7 @@ Hate Segment Length and Proportion Distributions
 ![Zero Crossing Rate for Implicit Hate](Images/cross_rate_implicit.jpg)
 ![Zero Crossing Rate for Non-Hate](Images/cross_rate_non-hate.jpg)
 
-*Caption:*  
-These plots show the Zero Crossing Rate (ZCR) of the audio signal over time for explicit hate, implicit hate, and non-hate content, respectively.
+> The Zero Crossing Rate (ZCR) of the audio signal over time for explicit hate, implicit hate, and non-hate content, respectively.
 
 ---
 
@@ -85,16 +84,9 @@ These plots show the Zero Crossing Rate (ZCR) of the audio signal over time for 
 
 ![Audio Emotion Heatmap](Images/emotion_audio_heatmap.jpg)
 
-*Caption:*  
-This heatmap displays the distribution of detected emotions in the audio across different content types, with columns representing emotions and rows representing explicit, implicit, and non-hate categories.
+> The distribution of detected emotions in the audio across different content types, with columns representing emotions and rows representing explicit, implicit, and non-hate categories.
 
 ---
-
-
-
-#### Figure 2: Audio Zero Crossing Rate and Emotion
-
-> This figure visualizes the Zero Crossing Rate (ZCR) and the detected emotions from the audio input in the dataset.
 
 #### Figure 3: Keywords and sentiment analysis for textual content
 
