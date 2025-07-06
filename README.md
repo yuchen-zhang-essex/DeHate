@@ -13,7 +13,7 @@ The content within these videos does not reflect the opinions, beliefs, or viewp
 This dataset is intended solely for research purposes and must be treated with strict confidentiality. Annotators are prohibited from downloading, saving, or disseminating any part of the data in any form. Any breach of this policy will be considered a violation of project terms and may result in legal consequences. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
 
 ---
-
+This is the official repository for the ACM Multimedia 2025 submission titled “DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection.”
 **DeHATE** is a large-scale multimodal dataset for the detection of explicit and implicit hate in short-form videos. The dataset comprises over 6,689 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
 This repository contains:
