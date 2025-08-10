@@ -13,7 +13,7 @@ The content within these videos does not reflect the opinions, beliefs, or viewp
 This dataset is intended solely for research purposes and must be treated with strict confidentiality. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
 
 ---
-**This is the official repository for “DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection.” (MM'25)**
+**This is the official repository for “DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection” (MM'25).**
 
 **DeHATE** is a large-scale multimodal dataset for the detection of explicit and implicit hate in short-form videos. The dataset comprises over 6,689 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
