@@ -10,10 +10,10 @@ The videos and data provided for annotation in this project have been sourced fr
 
 The content within these videos does not reflect the opinions, beliefs, or viewpoints of the research group or its members.
 
-This dataset is intended solely for research purposes and must be treated with strict confidentiality. Annotators are prohibited from downloading, saving, or disseminating any part of the data in any form. Any breach of this policy will be considered a violation of project terms and may result in legal consequences. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
+This dataset is intended solely for research purposes and must be treated with strict confidentiality. No personally identifiable information is included, and all procedures align with relevant legal and ethical standards.
 
 ---
-**This is the official repository for the ACM Multimedia 2025 submission “DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection.”**
+**This is the official repository for “DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection.” (MM'25)**
 
 **DeHATE** is a large-scale multimodal dataset for the detection of explicit and implicit hate in short-form videos. The dataset comprises over 6,689 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
@@ -210,7 +210,7 @@ Below we report the performance of several unimodal and multimodal baselines eva
 ## Accessing Videos
 
 
-Due to copyright and platform restrictions, we’re unable to share the original video files directly. or the public version of the DeHATE dataset, we provide only the video IDs, which can be used to identify and retrieve the videos from TikTok and BitChute.
+Due to copyright and platform restrictions, we’re unable to share the original video files directly. For the public version of the DeHATE dataset, we provide only the video IDs, which can be used to identify and retrieve the videos from TikTok and BitChute.
 To download videos from BitChute, you can use the `get_bitchute_video.py` script. For TikTok, please use the official TikTok API, available at [https://developers.tiktok.com/](https://developers.tiktok.com/).
 Please note that some videos may be removed by the platforms for violating content policies. If you have trouble accessing certain videos or need help, feel free to contact [yuchen.zhang@essex.ac.uk](mailto:yuchen.zhang@essex.ac.uk) for support.
 
