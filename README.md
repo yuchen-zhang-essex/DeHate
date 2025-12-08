@@ -15,7 +15,7 @@ This dataset is intended solely for research purposes and must be treated with s
 ---
 **This is the official repository for “DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection” (MM'25).**
 
-**DeHATE** is a large-scale multimodal dataset for the detection of explicit and implicit hate in short-form videos. The dataset comprises over 6,689 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
+**DeHate** is a large-scale multimodal dataset for the detection of explicit and implicit hate in short-form videos. The dataset comprises over 6,689 annotated videos collected from TikTok and BitChute, spanning six social groups, with fine-grained segment-level labels.
 
 This repository contains:
 - The cleaned annotation data in `.xlsx` format.
@@ -25,7 +25,7 @@ This repository contains:
 
 ## Dataset Summary
 
-DeHATE includes:
+DeHate includes:
 - Videos from two platforms: TikTok (highly regulated) and BitChute (loosely moderated)
 - Annotation of both explicit and implicit hate
 - Segment-level localization (timestamps for hateful content)
@@ -38,7 +38,7 @@ DeHATE includes:
 
 ### Dataset Overview
 
-**Label distribution of DeHATE.**
+**Label distribution of DeHate.**
 
 | Platform  | Hate (Explicit) | Hate (Implicit) | Non-Hate |
 |-----------|:--------------:|:---------------:|:--------:|
@@ -165,7 +165,7 @@ DeHATE includes:
 
 ## Benchmark Results
 
-Below we report the performance of several unimodal and multimodal baselines evaluated on the DeHATE dataset.
+Below we report the performance of several unimodal and multimodal baselines evaluated on the DeHate dataset.
 
 **Binary (Hate vs. Non-Hate) Results**
 | Model           |  Accuracy |  Macro F1 |   F1(H)   |   Pre(H)  |   Rec(H)  |
@@ -208,9 +208,9 @@ Below we report the performance of several unimodal and multimodal baselines eva
 
 ## Accessing Videos
 
-If you would like to access the DeHATE dataset, please complete the following application form:
+If you would like to access the DeHate dataset, please complete the following application form:
 
-[DeHATE Dataset Application Form](https://forms.office.com/e/hCrAZ4vs2w)
+[DeHate Dataset Application Form](https://forms.office.com/e/hCrAZ4vs2w)
 
 Once your application has been reviewed and accepted, we will send you a download link for the dataset.
 
