@@ -217,5 +217,17 @@ Once your application has been reviewed and accepted, we will send you a downloa
 If you have any questions, please contact [yuchen.zhang@essex.ac.uk](mailto:yuchen.zhang@essex.ac.uk).
 
 
+## Citation
+
+If you find **DeHate** useful in your research, please cite:
+
+```bibtex
+@inproceedings{zhang2025dehate,
+  title={DeHate: A Holistic Hateful Video Dataset for Explicit and Implicit Hate Detection},
+  author={Zhang, Yuchen and Chen, Tailin and Yue, Jiangbei and Sun, Yueming and Singh, Rahul and Jiao, Jianbo and Fu, Zeyu},
+  booktitle={Proceedings of the 33rd ACM International Conference on Multimedia},
+  pages={13177--13183},
+  year={2025}
+}
 
 
